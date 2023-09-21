@@ -42,7 +42,7 @@
     "dayjs": "^1.11.2",
     "electron": "^21.2.2",
     "events": "^3.3.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "ipfs-http-client": "^60.0.0",
     "pinia": "^2.0.23",
